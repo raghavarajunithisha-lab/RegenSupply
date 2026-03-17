@@ -4,6 +4,9 @@ A proof-of-concept Validation Engineering tool designed to track, calculate, and
 
 This project bridges the gap between **Supplier Procurement** and **Quality Assurance (QA)** by transforming raw FDA compliance data into actionable, quantitative risk metrics (0-100) before a pharmaceutical company signs a contract.
 
+<img width="1274" height="817" alt="image" src="https://github.com/user-attachments/assets/88fe083b-e220-4a54-a7ef-b4c63a62bf26" />
+
+
 ---
 
 ## 🎯 Project Objective
